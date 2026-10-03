@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of davwheat/flarum-ext-share.** Not for installation: use [Packagist](https://packagist.org/packages/davwheat/flarum-ext-share) or the [upstream repository](https://github.com/davwheat/flarum-ext-share).
 
-**0** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/davwheat-flarum-ext-share/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.2.0`
+**3** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/davwheat-flarum-ext-share/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2021-09-30 | `^1.0.0` | [Browse](https://github.com/flarchive/davwheat-flarum-ext-share/tree/archive/v1.0.0) |
+| `v1.0.1` | 2021-10-09 | `^1.0.0` | [Browse](https://github.com/flarchive/davwheat-flarum-ext-share/tree/archive/v1.0.1) |
+| `v1.1.0` | 2023-02-07 | `^1.2.0` | [Browse](https://github.com/flarchive/davwheat-flarum-ext-share/tree/archive/v1.1.0) |
 
 Catalog entry: [packages/davwheat-flarum-ext-share.json](https://github.com/flarchive/archive-index/blob/main/packages/davwheat-flarum-ext-share.json)
 
